@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+android_intent=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\android_intent-0.3.7+2\\
+beacon_broadcast=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\beacon_broadcast-0.2.1\\
+cloud_firestore=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.12.11\\
+connectivity=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity-0.4.9\\
+connectivity_for_web=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity_for_web-0.3.1\\
+connectivity_macos=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity_macos-0.1.0+3\\
+device_info=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info-0.4.2+4\\
+firebase_core=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.3+3\\
+firebase_core_web=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.1.1+2\\
+flutter_ble_lib=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_ble_lib-2.2.8\\
+geolocator=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-5.3.0\\
+google_api_availability=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_api_availability-2.0.2\\
+location_permissions=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location_permissions-2.0.4+1\\
+permission_handler=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler-4.4.0+hotfix.4\\
+sensors=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sensors-0.4.2+2\\
+wakelock=C:\\FlutterSDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\wakelock-0.1.4+2\\
